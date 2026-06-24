@@ -2,10 +2,10 @@
 
 class Solution {
     public int maxSubArray(int[] nums) {
-        int bestans=nums[0];
-        int ans=nums[0];
+        int bestans = nums[0];
+        int ans = nums[0];
 
-        for(int a=1;a<nums.length;a++){
+        for(int a = 1;a < nums.length; a++){
             int v1 = nums[a];
             int v2 = nums[a]+ bestans;
 
