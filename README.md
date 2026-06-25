@@ -9,11 +9,13 @@
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +27,7 @@
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
