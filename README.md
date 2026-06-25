@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,10 +16,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
