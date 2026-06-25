@@ -28,5 +28,10 @@ class Solution {
             j--;
             p--;
         }
+        while (i >= 0) {
+            nums1[p] = nums1[i];
+            i--;
+            p--;
+        }
     }
 }
