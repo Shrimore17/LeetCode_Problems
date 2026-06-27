@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
