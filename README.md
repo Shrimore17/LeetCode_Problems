@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -38,6 +40,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
@@ -51,4 +54,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
