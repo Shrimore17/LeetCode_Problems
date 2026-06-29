@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,5 +88,6 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
