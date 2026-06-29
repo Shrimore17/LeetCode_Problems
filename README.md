@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0169-majority-element) |
@@ -66,5 +67,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
