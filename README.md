@@ -57,6 +57,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0415-add-strings](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0415-add-strings) |
 ## Counting
 |  |
 | ------- |
@@ -90,4 +91,9 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Shrimore17/LeetCode_Problems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
